@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalculatorAndroid</string>
+    <string name="numberInput">Enter a Number</string>
+    <string name="Author">Michael Mena - mmena2017@fau.edu - Z23446115</string>
 </resources>
